@@ -1,0 +1,8 @@
+/node_modules
+.env
+.env.backup
+.env.production
+/.fleet
+/.idea
+/.vscode
+/.wwebjs_auth

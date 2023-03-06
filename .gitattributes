@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.ts diff=ts
+
+/.github export-ignore
+CHANGELOG.md export-ignore
